@@ -1,5 +1,5 @@
 const LinksSocialMedia = {
-  github: 'Zer0bito',
+  github: 'Tavik91',
   youtube: 'channel/UCf3S8RUxwDZZz9-fKoVqfgw',
   facebook: 'augusto.sudbrack',
   instagram: 'asudbrack',
